@@ -33,7 +33,12 @@
 * Undernet：用于构建网站的CSS和JS前端框架 - 我去年的宠物项目。 GitHub 地址：https://www.undernet.io
 * 【Aifiddle：浏览器里的深度网络开发平台】“Aifiddle - Design, Train and share neural networks”， 地址：https://aifiddle.io
 * professional-programming 一份收集了全栈程序员用到的各种优秀资料、工具及框架等资源集合，GitHub 地址：https://github.com/charlax/professional-programming
-
+* Computer_Science_Web_Resources 搜集整理了互联网上计算机科学相关的学习资源，GitHub 地址：https://github.com/the-akira/Computer_Science_Web_Resources
+* GraphQL设计和实现原则 -  https://principledgraphql.com
+* awesome-reinforcement-learning-zh 一份强化学习从入门到放弃的资料汇总，GitHub 地址：https://github.com/wwxFromTju/awesome-reinforcement-learning-zh
+* 【Professional programming resources】 地址：https://github.com/charlax/professional-programming
+* advanced-java 互联网 Java 工程师进阶知识完全扫盲，GitHub 地址：https://github.com/doocs/advanced-java
+* frontendDaily 由 @前端开发博客 维护的前端开发技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，GitHub 地址：https://github.com/kujian/frontendDaily
 
 
 
@@ -46,6 +51,9 @@
 * 有史以来最著名的数据可视化以及我们可以从中学到什么， 地址：https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fthe-most-famous-data-visualisation-ever-and-what-we-can-learn-from-it-abcdfa772548
 * docui: Go语言编写的Docker相关信息终端UI工具， GitHub 地址：https://github.com/skanehira/docui
 * 考研数学必背公式大全 ​​​​，地址：https://mp.weixin.qq.com/s/Pz6xW6ty9x9AK8l4edogxw
+* 【这是小编我见过最好的记笔记的方法】康奈尔笔记法介绍+笔记的颜色搭配小技巧！！地址：https://www.miaopai.com/show/2ATpfT4X4uN-1nJGQs9sHozONFfAt~0hJmAy5g__.htm
+
+
 
 ## 系列博客
 
@@ -79,6 +87,41 @@
 * GraphQL解析器：最佳实践。 ​​​​https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55
 *  在Java 11中对模块感知服务加载器提供超级动力。 ​​​​https://www.infoq.com/articles/java11-aware-service-module
 * 2019年JavaScript开发人员的10个基本VS Code的扩展插件。 ​​​​https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fhackernoon.com%2F10-essential-vs-code-extensions-for-javascript-developers-in-2019-e8320e3f421e
+* 最大的Java开发者2018调查报告。 ​​​​地址：https://programmer9.com/2019/02/06/largest-java-survey-2018.html
+* 【6 not so obvious things about ElasticSearch】, 地址：https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.softwaremill.com%2F6-not-so-obvious-things-about-elasticsearch-422491494aa4
+* ’The Eng Team Handbook (eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.' by raylene GitHub: https://github.com/raylene/eng-handbook
+* 【Introduction to Dart VM】 Dart VM简介。地址：https://mrale.ph/dartvm/
+* 《从0到1学习Flink》，地址：http://www.54tianzhisheng.cn
+* 【A list of awesome beginners-friendly projects】地址：https://github.com/MunGell/awesome-for-beginners
+* 用动画的形式呈现解LeetCode题目的思路。 GitHub 地址：​​​​https://github.com/MisterBooo/LeetCodeAnimation
+* MongoDB  - 复制和分片。 ​​​​地址：https://www.tutespace.com/2019/01/mongodb-replication-and-sharding.html
+* CSS-Inspiration 是一份 CSS 学习资料，以分类的形式，展示不同 CSS 属性或者不同的课题使用 CSS 来解决的各种方法，GitHub 地址：https://github.com/chokcoco/CSS-Inspiration
+* Goland中如何使用Go modules - https://blog.jetbrains.com/go/2019/01/22/working-with-go-modules/
+* 『Python 3 源码分析』 地址：https://flaggo.github.io/python3-source-code-analysis/
+* OnSen UI  - 开发HTML5混合和移动Web应用程序。 ​​​​地址：https://onsen.io
+* C ++ 17 Filesystem  - 编写一个简单的文件监视器。 ​​​​地址：https://solarianprogrammer.com/2019/01/13/cpp-17-filesystem-write-file-watcher-monitor/
+* 衡量网站可访问性的5个资源。 ​​​​地址：https://hackernoon.com/5-resources-to-measure-website-accessibility-614ae14c736d
+* Flutter:适用于手机和其他应用的混合应用。 ​​​​地址：https://ordina-jworks.github.io/development/2019/01/10/Flutter.html
+* 高性能消息系统NATS 2018年回顾+2019年展望 -  https://nats.io/blog/2018-year-review-upcoming-2019/
+* 【注意力的动画解析(以机器翻译为例)】《Attn: Illustrated Attention》by Raimi Karim 地址：https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fattn-illustrated-attention-5ec4ad276ee3 pdf: ​​​​https://pan.baidu.com/s/1gRhGfaEY_nFXHMLaZGhDQQ
+* Go2 Error Inspection前瞻 -  https://tonybai.com/2019/01/27/perspective-study-on-go2-error-inspection/
+* GraphQL解析器：最佳实践。 ​​​​https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55
+* Caches: Basic Concepts 地址：https://www.youtube.com/watch?v=rvTkRef4K48&feature=youtu.be
+* Go缺陷：了解这27个陷阱，将帮助您在自己的代码中查找和修复类似的问题 - https://yourbasic.org/golang/gotcha/
+* 管道一致性写入可以加速分布式SQL事务。 ​​​​https://www.cockroachlabs.com/blog/transaction-pipelining/
+* GitHub Learning Lab 是 GitHub 官方出的一个交互式学习课程，主要教授 GitHub 新手如何正确的使用 GitHub，如提交 commit、创建分支、发起 Pull Request 等，如果你身边有朋友刚接触编程或 GitHub，可以把这个教程转给他看一下，这个课程对新手还是蛮友好的，地址：https://lab.github.com
+* technical blogpost 使用“混合”方法从AngularJS迁移到Angular  - 案例研究。 ​​​https://www.monterail.com/blog/angularjs-angular-migration-hybrid?utm_medium=social&utm_source=reddit&utm_campaign=other
+* 对2019年Java的预测。https://www.azul.com/staring-into-my-java-crystal-ball-2019/
+* 【Python安全相关资源大列表】’Awesome Python Security resources 🕶🐍🔐' by GuardRails GitHub: https://github.com/guardrailsio/awesome-python-security
+* 【zepto/jQuery、AngularJS、React、Nuclear的演化】  http://blogread.cn/it/article/8074?f=wb_news
+* flutter-common-widgets-app 是一个 Flutter 开发者帮助 App，包含 Flutter 常用 130+ 组件的中文文档与 Demo 演示，GitHub 地址：https://github.com/alibaba/flutter-go
+* 阅读Ur / Web签名，第1部分。 ​​​​ https://sgt.hootr.club/molten-matter/urweb-sig/
+* 重新评估分层架构。https://javadevguy.wordpress.com/2019/01/06/reevaluating-the-layered-architecture/
+* 聊聊 Spring 的那些注解 https://mp.weixin.qq.com/s/ZDqDvG5Soy_gucYrvMi6fg
+* 了解RDBMS中的数据存储方式。 ​​​​https://www.pixelstech.net/article/1549293806-Understanding-How-is-Data-Stored-in-RDBMS
+
+
+
 
 ## 书单
 
@@ -91,6 +134,12 @@
 * 机器学习100天 中文版；https://github.com/MLEveryday/100-Days-Of-ML-Code 英文原版GitHub地址：https://github.com/Avik-Jain/100-Days-Of-ML-Code​​​​
 * 'AI实战-practicalAI 中文版' by MLEveryday GitHub: https://github.com/MLEveryday/practicalAI-cn
 * 移动Web开发资源整理（英）：https://github.com/myshov/awesome-mobile-web-development
+* 2019年全球机器学习/深度学习会议清单。 ​​​​地址：https://tryolabs.com/blog/machine-learning-deep-learning-conferences/
+* 【Computational and Inferential Thinking: The Foundations of Data Science】https://www.inferentialthinking.com/chapters/intro.html 加大伯克利课程《The Foundations of Data Science》OSTAT 94: Foundations of Data Science 在线教科书《计算与推理思维：数据科学的基础》：http://data8.org。 ​​​​
+
+
+
+
 
 ## 软件工具
 
@@ -113,3 +162,47 @@
 * 十个开发人员需要知道的Go语言实现的工具 - https://gustavohenrique.net/en/2019/01/10-tools-written-in-go-that-every-dev-needs-to-know/
 * Anime.js  一款轻量级的 JavaScript 动画库，轻松实现各种酷炫的效果，支持 CSS 属性、SVG 和 DOM 属性等，示例演示地址：https://animejs.com ，GitHub 地址：https://github.com/juliangarnier/anime ​​​​
 * TiDB开源其MySQL / MariaDB兼容数据迁移工具 https://github.com/pingcap/tidb-tools/blob/docs/docs/dm/zh_CN/README.md
+* OpenPDF是一个用于PDF文件的开源Java库，现发布 1.2.10。 ​​​​GitHub 地址：https://github.com/LibrePDF/OpenPDF
+* ’dask-image - Distributed image processing'  GitHub: https://github.com/dask/dask-image doc:https://dask-image.readthedocs.io/en/latest/ ​​​​
+* 【Jupyter相关资源大列表】’awesome-jupyter - A curated list of awesome Jupyter projects, libraries and resources' by Markus Schanta GitHub: https://github.com/markusschanta/awesome-jupyter
+* MyPerf4J 是一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具，GitHub 地址：https://github.com/LinShunKang/MyPerf4J
+* 最简单、实用的依赖库导入脚本。https://github.com/mxcl/swift-sh
+*  Beaver  - 一种实时消息服务器，用于构建可缩放的应用程序内通知，多人游戏，Web和移动应用程序中的聊天应用程序。 ​​​​ 地址：https://github.com/Clivern/Beaver
+* swift语言中的类初始化程序。 ​​​​地址：https://www.youtube.com/watch?v=2R4_-L6HIvE&feature=youtu.be
+* 【提升你的 CSS 选择器技能】地址：https://www.html.cn/archives/10323?comefrom=http://blogread.cn/news/
+* Apron：高级属性 - 以更加理智的方式读写Java .properties文件。 ​​​​GitHub 地址：https://github.com/hupfdule/apron
+* 【Sequel Pro – Open source macOS native MySQL GUI client】地址：https://www.sequelpro.com
+* githubv4:  支持访问github GraphQL API v4 的go client package - https://github.com/shurcooL/githubv4
+* Visual Studio Code for Java：终极指南2019。 ​​​​https://medium.com/@brunoborges/visual-studio-code-for-java-the-ultimate-guide-2019-8de7d2b59902
+* 【Bootstrap builder for busy developers】 为繁忙的开发人员准备的Bootstrap构建器。 ​​​​ https://bootstrapshuffle.com
+* Sloth是一个Mac应用程序，它显示系统上所有正在运行的进程正在使用的所有打开文件和套接字。 这样可以轻松检查哪些应用正在使用哪些文件和套接字。https://github.com/sveinbjornt/Sloth
+
+
+
+
+
+
+## 论文相关
+
+
+* 【UNet相关论文/PyTorch实现汇总】’UNet-family - Paper and pytorch Implement of UNet-related model.' by ShawnBIT GitHub: https://github.com/ShawnBIT/UNet-family
+* 《Scene Understanding Challenge for Autonomous Navigation in Unstructured Environments》GitHub: https://github.com/AutoNUE/public-code
+* 《Scalable Recommendation with Hierarchical Poisson Factorization》GitHub: https://github.com/david-cortes/hpfrec
+* 《Modular meta-learning》GitHub: https://github.com/FerranAlet/modular-metalearning
+* 《Temporal Difference Variational Auto-Encoder》GitHub: https://github.com/xqding/TD-VAE
+* 《Fully-convolutional siamese networks for object tracking》GitHub: https://github.com/HengLan/SiamFC-PyTorch
+* 《Generative Adversarial Frontal View to Bird View Synthesis》GitHub: https://github.com/WERush/BridgeGAN
+* 《BLOCK: Bilinear Superdiagonal Fusion for VQA and VRD》GitHub: https://github.com/Cadene/block.bootstrap.pytorch
+* 深度学习教程整理，全是干货 地址：https://github.com/zeusees/HyperDL-Tutorial
+* 【深度学习目标检测文献列表(技术路线)】“A paper list of object detection using deep learning” by Lee hoseong GitHub: https://github.com/hoya012/deep_learning_object_detection
+* ’Awesome - Image Classification - A curated list of deep learning image classification papers and codes' by weiaicunzai GitHub: https://github.com/weiaicunzai/awesome-image-classification
+
+## 数据集
+
+* “深度学习开放数据集 | Deeplearning4j”  地址：https://deeplearning4j.org/cn/opendata
+* 【DeepFashion2服饰数据集】’DeepFashion2 - DeepFashion2 Dataset' by switchablenorms GitHub: https://github.com/switchablenorms/DeepFashion2 paper:《DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images》(2019) ： https://arxiv.org/abs/1901.07973 
+
+
+
+
+
